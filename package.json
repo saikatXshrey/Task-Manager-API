@@ -1,7 +1,7 @@
 {
-  "name": "jobs",
+  "name": "task-manager-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Api for managing tasks made with Node, Express, MongoDB, Mongoose",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js"
