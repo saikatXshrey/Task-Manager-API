@@ -6,7 +6,8 @@ Made with Node, Express, MongoDB, Mongoose
 
 ## Demo
 
-Insert gif or link to demo
+https://user-images.githubusercontent.com/76695320/132977924-5a97a399-e446-4554-8842-642e6898d1f8.mp4
+
 
 ## Screenshots
 
